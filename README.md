@@ -4,11 +4,14 @@
 
 Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atualmente, estou cursando Sistemas para Internet na Fatec Rubens Lara. Possuo grande apreço por tecnologia, e estou sempre em evolução e aberta a novos desafios que contribuam para o meu crescimento profissional na área da tecnologia.
 
+
 <p align="left">
     <a href="www.linkedin.com/in/sophia-r-mendonça-95105a252">
         <img 
             alt="Meu Perfil do Linkedin" 
             title="Linkedin" 
+            width="30px" 
+            height="30"
              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
          />
     </a>
@@ -16,6 +19,8 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
         <img 
             alt="Meu Perfil do Github" 
             title="Github" 
+            width="30px" 
+            height="30"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
         />
     </a>
@@ -23,6 +28,8 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
         <img 
             alt="Meu Currículo Online" 
             title="Currículo" 
+            width="30px" 
+            height="30"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg"
         />
     </a>
