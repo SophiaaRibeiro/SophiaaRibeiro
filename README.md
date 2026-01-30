@@ -7,12 +7,13 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
 <p align="left">
     <a href="www.linkedin.com/in/sophia-r-mendonça-95105a252">
         <img 
-            alt="youtube subscribers" 
+            alt="Meu perfil do Linkedin" 
             title="me siga no Linkedin" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
+            width="50"
+            height="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
         />
     </a>
-   
 </p>
 
 ---
