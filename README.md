@@ -7,11 +7,23 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
 <p align="left">
     <a href="www.linkedin.com/in/sophia-r-mendonça-95105a252">
         <img 
-            alt="Meu perfil do Linkedin" 
-            title="me siga no Linkedin" 
-            width="50"
-            height="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+            alt="Meu Perfil do Linkedin" 
+            title="Linkedin" 
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         />
+    </a>
+    <a href="https://github.com/SophiaaRibeiro">
+        <img 
+            alt="Meu Perfil do Github" 
+            title="Github" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+        />
+    </a>
+    <a href="https://www.canva.com/design/DAGyhHvS3Cw/jrQ8YUPrtUIjwGIZqFIrgQ/view?utm_content=DAGyhHvS3Cw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9f5c9ef2f">
+        <img 
+            alt="Meu Currículo Online" 
+            title="Currículo" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg"
         />
     </a>
 </p>
@@ -62,14 +74,6 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -84,27 +88,14 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<br/>
 
-</p>
+
