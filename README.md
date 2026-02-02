@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Sophia Mendonça
 
-**`Desenvolvedora Front-End`**
+
 
 Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atualmente, estou cursando Sistemas para Internet na Fatec Rubens Lara. Possuo grande apreço por tecnologia, e estou sempre em evolução e aberta a novos desafios que contribuam para o meu crescimento profissional na área da tecnologia.
 
