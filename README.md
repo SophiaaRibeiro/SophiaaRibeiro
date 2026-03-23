@@ -15,7 +15,7 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
          />
     </a>
-    <a href="https://github.com/SophiaaRibeiro">
+    <!-- <a href="https://github.com/SophiaaRibeiro">
         <img 
             alt="Meu Perfil do Github" 
             title="Github" 
@@ -23,7 +23,7 @@ Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atu
             height="30"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
         />
-    </a>
+    </a> -->
     <a href="https://www.canva.com/design/DAGyhHvS3Cw/jrQ8YUPrtUIjwGIZqFIrgQ/view?utm_content=DAGyhHvS3Cw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9f5c9ef2f">
         <img 
             alt="Meu Currículo Online" 
