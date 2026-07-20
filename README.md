@@ -4,37 +4,6 @@
 
 Me chamo Sophia Ribeiro Mendonça, tenho 20 anos e sou natural de Santos/SP. Atualmente, estou cursando Sistemas para Internet na Fatec Rubens Lara. Possuo grande apreço por tecnologia, e estou sempre em evolução e aberta a novos desafios que contribuam para o meu crescimento profissional na área da tecnologia.
 
-
-<p align="left">
-    <a href="www.linkedin.com/in/sophia-r-mendonça-95105a252">
-        <img 
-            alt="Meu Perfil do Linkedin" 
-            title="Linkedin" 
-            width="30px" 
-            height="30"
-             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-         />
-    </a>
-    <!-- <a href="https://github.com/SophiaaRibeiro">
-        <img 
-            alt="Meu Perfil do Github" 
-            title="Github" 
-            width="30px" 
-            height="30"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-        />
-    </a> -->
-    <a href="https://www.canva.com/design/DAGyhHvS3Cw/jrQ8YUPrtUIjwGIZqFIrgQ/view?utm_content=DAGyhHvS3Cw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9f5c9ef2f">
-        <img 
-            alt="Meu Currículo Online" 
-            title="Currículo" 
-            width="30px" 
-            height="30"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
